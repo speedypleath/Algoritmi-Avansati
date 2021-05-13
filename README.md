@@ -1,2 +1,2 @@
-# Algoritmi-Avansati
-teme algoritmi avansati
+# Algoritmi Avansati
+Teme algoritmi avansati:
